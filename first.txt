@@ -1,3 +1,2 @@
 Hi this is first line of my git
 And thi is second line
-And this is third line
